@@ -1,0 +1,27 @@
+{
+  "name": "gretro-paint",
+  "version": "0.1.0",
+  "author": "mohayonao <mohayonao@gmail.com>",
+  "description": "gretro plugin to fill the area",
+  "license": "MIT",
+  "keyword": [
+    "gretro"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mohayonao/gretro-paint.git"
+  },
+  "bugs": "http://github.com/mohayonao/gretro-paint/issues",
+  "main": "gretro-paint.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "gretro": "^0.2.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4",
+    "png": "^3.0.3"
+  }
+}
