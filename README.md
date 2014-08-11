@@ -1,4 +1,7 @@
 # gretro-paint
+[![NPM Version](http://img.shields.io/npm/v/gretro-paint.svg?style=flat)](https://www.npmjs.org/package/gretro-paint)
+[![Dependency Status](http://img.shields.io/david/mohayonao/gretro-paint.svg?style=flat)](https://david-dm.org/mohayonao/gretro-paint)
+[![devDependency Status](http://img.shields.io/david/dev/mohayonao/gretro-paint.svg?style=flat)](https://david-dm.org/mohayonao/gretro-paint)
 
 > Gretro-paint is a [gretro](https://github.com/mohayonao/gretro) plugin to fill an area.
 
